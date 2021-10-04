@@ -31,7 +31,7 @@ int binarySearch(int arr[], int firstTermIndex, int lastTermIndex, int toBeSearc
         return binarySearch(arr, middleIndex + 1, lastTermIndex, toBeSearched);
     }
   
-    // If there is no element to be found, return -1
+    // If no element is found, return -1
     return -1;
  
 }
