@@ -1,8 +1,12 @@
+/*
+    Created by: canaryGrapher
+    Date: 04/10/2020
+    Implementation: Binary Search
+*/
+
 #include <stdio.h>
 
-
 /*
-
 Function to implement binary search (only for sorted arrays)
     ARGUMENTS:
     arr[] - The array (sorted) that needs to be searched 
