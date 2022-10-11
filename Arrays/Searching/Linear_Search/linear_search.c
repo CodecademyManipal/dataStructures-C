@@ -5,7 +5,7 @@
 */
 
 /*
-Function to implement linear search (only for sorted arrays)
+Function to implement linear search
     ARGUMENTS:
     arr[] - The array (sorted) that needs to be searched 
     size - The size of the array
